@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e8516b6d-2e13-4b97-be71-75922a8dcac2",
+  "id_short": 769992,
+  "published_at": "2026-04-14T19:23:25Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-oklahoma-us-sample-769992",
+  "sample_asset_name": "beamstation_769992_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/769992/beamstation_769992_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "fba6e4472b60dc29ca88851dcfd97e27bb2f61acc4703c369c5430772dd4c4e8",
+  "sample_size_bytes": 36795,
+  "total_records": 50
+}
