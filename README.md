@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Oklahoma, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `769992` |
 | Location | Oklahoma |
 | Category | Restaurants |
-| Full dataset size | 41 records |
-| Free sample size | 4 records (9.76%) |
-| Last export | 2026-04-22T13:49:37.808875+00:00 |
+| Full dataset size | 60 records |
+| Free sample size | 6 records (10.0%) |
+| Last export | 2026-04-29T14:31:11.446345+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-oklahoma-us-sample-769992/releases/download/sample-latest/beamstation_769992_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
